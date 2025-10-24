@@ -11,7 +11,7 @@
 An interactive Power BI dashboard analyzing **delivery performance**, **profitability**, and **sales efficiency** across global regions and customer segments.  
 The dashboard is divided into two key modules:
 
-- **Delivery Performance Dashboard**  
+- **Delivery Performance Dashboard**    
 - **Sales Performance Dashboard**
 
 ---
