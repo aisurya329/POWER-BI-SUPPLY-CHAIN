@@ -52,12 +52,3 @@ The dashboard is divided into two key modules:
 - Optimizing logistics and lead times can improve efficiency and revenue.  
 - Regional and customer-segment analysis enables better inventory and process planning.
 
----
-
-### Author
-**Aisurya Priyadarshini**  
-[LinkedIn](https://linkedin.com/in/Aisurya329) • [GitHub](https://github.com/aisurya329)
-
----
-
-⭐ *If you found this project useful, consider starring the repository!*
