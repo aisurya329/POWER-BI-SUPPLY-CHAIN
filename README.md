@@ -2,7 +2,7 @@
 
 **Tools:** Power BI | Excel | Data Cleaning | Visualization  
 **Dataset:** [DataCo Smart Supply Chain](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data)  
-**Reference Project:** [Late Delivery Risk Prediction](https://github.com/PolinaBurova/Predicting-Delivery-Delays-in-Supply-Chain)
+
 
 ---
 
